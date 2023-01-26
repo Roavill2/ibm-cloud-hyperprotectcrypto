@@ -1,8 +1,8 @@
-module github.com/prabhatnitk/ibm-cloud-hyperprotectcrypto
+module github.com/roavill2/ibm-cloud-hyperprotectcrypto
 
 go 1.18
 
-replace github.com/ibm-developer/ibm-cloud-hyperprotectcrypto => /path/to/ibm-cloud-hyperprotectcrypto
+replace github.com/ibm-developer/ibm-cloud-hyperprotectcrypto => /path/to/repo/roavill2/ibm-cloud-hyperprotectcrypto
 
 require (
 	github.com/gogo/googleapis v1.4.1
